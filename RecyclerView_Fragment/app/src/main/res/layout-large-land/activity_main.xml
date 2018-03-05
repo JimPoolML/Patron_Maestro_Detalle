@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="horizontal"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="16dp"
+    android:paddingLeft="16dp"
+    android:paddingRight="16dp"
+    android:paddingTop="16dp"
+    tools:context="appjpm4everyone.recyclerview_fragment.MainActivity">
+
+    <!--Fragments de orientación horizontal, para el modo LANDSCAPE -->
+
+    <fragment
+        android:id="@+id/fragmentLista"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:name="appjpm4everyone.recyclerview_fragment.fragments.ListaSeleccionesFragment"
+        tools:layout="@layout/fragment_lista_selecciones"
+        android:layout_weight="2"/>
+
+    <fragment
+        android:id="@+id/fragmentDetalle"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:name="appjpm4everyone.recyclerview_fragment.fragments.DetalleSeleccionFragment"
+        tools:layout="@layout/fragment_detalle_seleccion"
+        android:layout_weight="1"/>
+
+
+</LinearLayout>

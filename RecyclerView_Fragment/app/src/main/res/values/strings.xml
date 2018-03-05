@@ -1,0 +1,57 @@
+<resources>
+    <string name="app_name">RecyclerView_Fragment</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <!-- Información de Argentina -->
+    <string name="Argentina">Selección Argentina</string>
+    <string name="Detalle_corto_Argentina">Asociación del Fútbol Argentino (AFA)</string>
+    <string name="Detalle_largo_Argentina">Es uno de los equipos más exitosos del fútbol mundial. Fue campeona en dos oportunidades de la Copa Mundial de Fútbol (1978 y 1986) y finalista en otras tres ocasiones (1930, 1990 y 2014).</string>
+
+    <!-- Información de Bolivia -->
+    <string name="Bolivia">Selección Boliviana</string>
+    <string name="Detalle_corto_Bolivia">Federación Boliviana de Fútbol (FBF)</string>
+    <string name="Detalle_largo_Bolivia">La selección boliviana ha participado en la Copa Mundial de Fútbol (1930, 1950 y 1994). En el Mundial de 1930 participó en calidad de invitado, es conocida como La Verde.</string>
+
+    <!-- Información de Brasil -->
+    <string name="Brasil">Selección Brasileña</string>
+    <string name="Detalle_corto_Brasil">Confederación Brasileña de Fútbol (CBF)</string>
+    <string name="Detalle_largo_Brasil">Brasil es la selección más exitosa en la historia de la Copa Mundial de Fútbol. Es la única hasta ahora en haber participado en todas las copas del mundo, tiene el récord de Campeonatos Mundiales ganados con cinco títulos (1958, 1962, 1970, 1994 y 2002).</string>
+
+    <!-- Información de Chile -->
+    <string name="Chile">Selección Chilena</string>
+    <string name="Detalle_corto_Chile">Federación de Fútbol de Chile (FFCh)</string>
+    <string name="Detalle_largo_Chile">Conocida como la Roja,  ha participado en nueve Copas Mundiales (1930, 1950, 1962, cuando fue el anfitrión; 1966, 1974, 1982, 1998, 2010 y 2014) y su principal logro a nivel mundial ha sido obtener el tercer lugar en la Copa de 1962.</string>
+
+    <!-- Información de Colombia -->
+    <string name="Colombia">Selección Colombiana</string>
+    <string name="Detalle_corto_Colombia">Federación Colombiana de Fútbol (FCF)</string>
+    <string name="Detalle_largo_Colombia">Ha participado en seis Copas Mundiales de Fútbol (1962, 1990, 1994, 1998, 2014 y 2018). En Brasil 2014 logró la mejor participación terminando en el puesto 5 de 32 selecciones participantes,en 1962 presentó el único gol olímpico hasta la fecha en la historia de los Mundiales.</string>
+
+    <!-- Información de Ecuador -->
+    <string name="Ecuador">Selección Ecuatoriana</string>
+    <string name="Detalle_corto_Ecuador">Federación Ecuatoriana de Fútbol (FEF)</string>
+    <string name="Detalle_largo_Ecuador">La escuadra ecuatoriana es conocida a nivel nacional e internacional como La Tricolor o La Tri. En sus inicios, fue una de las selecciones más débiles de América, pues el fútbol en Ecuador se profesionalizó en la segunda mitad del siglo XX.</string>
+
+    <!-- Información de Paraguay -->
+    <string name="Paraguay">Selección Paraguaya</string>
+    <string name="Detalle_corto_Paraguay">Asociación Paraguaya de Fútbol (APF)</string>
+    <string name="Detalle_largo_Paraguay">Los Guaraníes o La Albirroja, como es conocida familiarmente, debido a los colores de la bandera impregnadas en la camiseta, estuvo presente en 8 ediciones de la Copa Mundial de Fútbol, en las de 1930, 1950, 1958, 1986, 1998, 2002, 2006 y 2010.</string>
+
+    <!-- Información de Perú -->
+    <string name="Peru">Selección Peruana</string>
+    <string name="Detalle_corto_Peru">Federación Peruana de Fútbol (FPF)</string>
+    <string name="Detalle_largo_Peru">Hasta la fecha ha logrado clasificarse a cinco ediciones de la Copa del Mundo (1930, 1970, 1978, 1982 y 2018), siendo sus mejores resultados los cuartos de final alcanzados en 1970 (donde ganó el premio al juego limpio).</string>
+
+    <!-- Información de Uruguay -->
+    <string name="Uruguay">Selección Uruguaya</string>
+    <string name="Detalle_corto_Uruguay">Asociación Uruguaya de Fútbol (AUF)</string>
+    <string name="Detalle_largo_Uruguay">Hasta la fecha ha logrado clasificarse a 13 ediciones de la Copa del Mundo (1930, 1950, 1954, 1962, 1966, 1970, 1974, 1986, 1990,  2002, 2010, 2014 y 2018). La Garra Charrua ha logrado 2 Copas del Mundo (1930 y 1950).</string>
+
+    <!-- Información de Venezuela -->
+    <string name="Venezuela">Selección Venezolana</string>
+    <string name="Detalle_corto_Venezuela">Federación Venezolana de Fútbol (FVF)</string>
+    <string name="Detalle_largo_Venezuela">Conocida como La Vinotinto, es el único equipo de la Conmebol que aún no ha clasificado a una Copa Mundial de Fútbol y es también, junto con Ecuador, una de las selecciones que no ha ganado la Copa América.</string>
+
+</resources>

@@ -1,0 +1,25 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="appjpm4everyone.recyclerview_fragment.fragments.DetalleSeleccionFragment">
+
+    <!-- TODO: Update blank fragment layout -->
+    <ImageView
+        android:id="@+id/idBandera"
+        android:layout_width="match_parent"
+        android:layout_height="260dp"
+        android:src="@drawable/conmebol_old"
+        android:scaleType="fitXY"
+        android:layout_marginBottom="10dp" />
+
+    <TextView
+        android:id="@+id/idDetalle"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Descripccion"
+        android:textStyle="bold"
+        android:textSize="20sp"/>
+
+</LinearLayout>
